@@ -110,6 +110,7 @@ section {
 #music_tracks {
   align-items:baseline;
   margin-top: 20vh;
+  margin-bottom: 20vh;
 }
 
 .track_select {
