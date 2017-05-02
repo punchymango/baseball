@@ -100,6 +100,16 @@ var handlers = {
       display.clearActives();
       display.makeActive(event.target);
     });
+
+    document.getElementById('fight').addEventListener('click', function(event) {
+      track = event.target.id;
+      if (track === '' || track === 'fight') {
+        return;
+      }
+      musicPlayer.select('fight', track);
+      display.clearActives();
+      display.makeActive(event.target);
+    });
   //  document.getElementById('force').addEventListener('click', function(event) {
   //    track = event.target.id;
   //    if (track === '' || track === 'force') {
