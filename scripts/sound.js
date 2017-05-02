@@ -229,6 +229,11 @@ var display = {
         node.className = 'track-heading bold lite-up inactive_track';
       }
     });
+    showList.forEach(function(node){
+      if (node.nodeName === 'P') {
+        node.className = 'track-heading bold lite-up inactive_track';
+      }
+    });
     // forceList.forEach(function(node){
     //   if (node.nodeName === 'P') {
     //     node.className = 'track-heading bold lite-up inactive_track';
