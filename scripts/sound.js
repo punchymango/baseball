@@ -12,9 +12,9 @@ var musicPlayer = {
     soresu : 'assets/audio/music/forms/Soresu.mp3'
       },
     fight : {
-      darkSide : 'assets/audio/music/fight/dark-edit.mp3',
-      dramatic : 'assets/audio/music/fight/dramatic.mp3',
-      epic : '',
+      melee : 'assets/audio/music/fight/melee1.mp3',
+      melee2 : 'assets/audio/music/fight/melee2.mp3',
+      brawl : 'assets/audio/music/fight/darryl-fights-sith.mp3',
       tragic : 'assets/audio/music/fight/tragic.mp3'
     },
     show : {
