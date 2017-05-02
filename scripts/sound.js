@@ -218,6 +218,7 @@ var display = {
     //var kataList = document.getElementById('kata').childNodes;
     var showList = document.getElementById('show').childNodes;
     //var forceList = document.getElementById('force').childNodes;
+    var fiteList = document.getElementById('fight').childNodes;
     // kataList.forEach(function(node){
     //   if (node.nodeName === 'P') {
     //     node.className = 'track-heading bold lite-up inactive_track';
