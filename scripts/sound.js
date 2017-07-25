@@ -18,11 +18,11 @@ var musicPlayer = {
       tragic : 'assets/audio/music/fight/tragic.mp3'
     },
     show : {
-      scene1 : 'assets/audio/show/Scene1-pregame_mixdown.mp3',
-      scene2 : 'assets/audio/show/scene2-sithintro_mixdown.mp3',
-      scene3 : 'assets/audio/show/scene3-conversion_mixdown.mp3',
-      scene4 : 'assets/audio/show/scene4-jedi_mixdown.mp3',
-      scene5 : 'assets/audio/show/scene5-postgame_mixdown.mp3'
+      scene1 : 'assets/audio/show/Scene1-pregame_mixdown-Everett.mp3',
+      scene2 : 'assets/audio/show/scene2-sithintro_mixdown-Everett.mp3',
+      scene3 : 'assets/audio/show/scene3-conversion_mixdown-Everett.mp3',
+      scene4 : 'assets/audio/show/scene4-jedi_mixdown-Everett.mp3',
+      scene5 : 'assets/audio/show/scene5-postgame_mixdown_Everett.mp3'
       }
   },
 
