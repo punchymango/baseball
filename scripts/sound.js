@@ -15,6 +15,7 @@ var musicPlayer = {
       melee : 'assets/audio/music/fight/Melee.mp3',
       brawl : 'assets/audio/music/fight/Sith_Brawl.mp3',
       reyMulti : 'assets/audio/music/fight/Rey_Multi.mp3',
+      reyApp : 'assets/audio/music/fight/Rey_App.mp3',
       reyKylo : 'assets/audio/music/fight/Reylo_Fight.mp3'
     },
     show : {
