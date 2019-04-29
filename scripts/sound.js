@@ -12,17 +12,17 @@ var musicPlayer = {
     soresu : 'assets/audio/music/forms/Soresu.mp3'
       },
     fight : {
-      melee : 'assets/audio/music/fight/melee1.mp3',
-      melee2 : 'assets/audio/music/fight/melee2.mp3',
-      brawl : 'assets/audio/music/fight/darryl-fights-sith.mp3',
-      tragic : 'assets/audio/music/fight/tragic.mp3'
+      melee : 'assets/audio/music/fight/Melee.mp3',
+      brawl : 'assets/audio/music/fight/Sith_Brawl.mp3',
+      reyMulti : 'assets/audio/music/fight/Rey_Multi.mp3',
+      reyKylo : 'assets/audio/music/fight/Reylo_Fight.mp3'
     },
     show : {
-      scene1 : 'assets/audio/show/Scene1-pregame_mixdown-Everett.mp3',
-      scene2 : 'assets/audio/show/scene2-sithintro_mixdown-Everett.mp3',
-      scene3 : 'assets/audio/show/scene3-conversion_mixdown-Everett.mp3',
-      scene4 : 'assets/audio/show/scene4-jedi_mixdown-Everett.mp3',
-      scene5 : 'assets/audio/show/scene5-postgame_mixdown_Everett.mp3'
+      scene1 : 'assets/audio/show/Scene-1.mp3',
+      scene2 : 'assets/audio/show/Scene-2.mp3',
+      scene3 : 'assets/audio/show/Scene-3.mp3',
+      scene4 : 'assets/audio/show/Scene-4.mp3',
+      scene5 : 'assets/audio/show/Scene-5.mp3'
       }
   },
 
