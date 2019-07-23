@@ -19,11 +19,11 @@ var musicPlayer = {
       reyKylo : 'assets/audio/music/fight/Reylo_Fight.mp3'
     },
     show : {
-      scene1 : 'assets/audio/show/Scene-1.mp3',
-      scene2 : 'assets/audio/show/Scene-2.mp3',
-      scene3 : 'assets/audio/show/Scene-3.mp3',
-      scene4 : 'assets/audio/show/Scene-4.mp3',
-      scene5 : 'assets/audio/show/Scene-5.mp3'
+      scene1 : 'assets/audio/show/Scene 1-Aquasox.mp3',
+      scene2 : 'assets/audio/show/Scene 2-Aquasox.mp3',
+      scene3 : 'assets/audio/show/Scene 3-Aquasox.mp3',
+      scene4 : 'assets/audio/show/Scene 4-Aquasox.mp3',
+      scene5 : 'assets/audio/show/Scene 5-Aquasox.mp3'
       }
   },
 
