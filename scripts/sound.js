@@ -15,15 +15,15 @@ var musicPlayer = {
       melee : 'assets/audio/music/fight/Melee.mp3',
       brawl : 'assets/audio/music/fight/Sith_Brawl.mp3',
       reyMulti : 'assets/audio/music/fight/Rey_Multi.mp3',
-      reyApp : 'assets/audio/music/fight/Rey_App.mp3',
+      reyApp : 'assets/audiox!/music/fight/Rey_App.mp3',
       reyKylo : 'assets/audio/music/fight/Reylo_Fight.mp3'
     },
     show : {
-      scene1 : 'assets/audio/show/Scene 1-Aquasox.mp3',
-      scene2 : 'assets/audio/show/Scene 2-Aquasox.mp3',
-      scene3 : 'assets/audio/show/Scene 3-Aquasox.mp3',
-      scene4 : 'assets/audio/show/Scene 4-Aquasox.mp3',
-      scene5 : 'assets/audio/show/Scene 5-Aquasox.mp3'
+      scene1 : 'assets/audio/show/Scene 1 - Aquasox.mp3',
+      scene2 : 'assets/audio/show/Scene 2 - Aquasox.mp3',
+      scene3 : 'assets/audio/show/Scene 3 - Aquasox.mp3',
+      scene4 : 'assets/audio/show/Scene 4 - Aquasox.mp3',
+      scene5 : 'assets/audio/show/Scene 5 - Aquasox.mp3'
       }
   },
 
